@@ -45,6 +45,7 @@
 		CADA026029A7F0A6001783D6 /* ExternalWeblinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CADA025F29A7F0A6001783D6 /* ExternalWeblinkView.swift */; };
 		CADA026229A7F2CB001783D6 /* VideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CADA026129A7F2CB001783D6 /* VideoModel.swift */; };
 		CADA026429A7F311001783D6 /* VideoListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CADA026329A7F311001783D6 /* VideoListItemView.swift */; };
+		CAF37A2229B7B141003B8E06 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF37A2129B7B141003B8E06 /* MapAnnotationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -88,6 +89,7 @@
 		CADA025F29A7F0A6001783D6 /* ExternalWeblinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExternalWeblinkView.swift; sourceTree = "<group>"; };
 		CADA026129A7F2CB001783D6 /* VideoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoModel.swift; sourceTree = "<group>"; };
 		CADA026329A7F311001783D6 /* VideoListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListItemView.swift; sourceTree = "<group>"; };
+		CAF37A2129B7B141003B8E06 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 				CADA025F29A7F0A6001783D6 /* ExternalWeblinkView.swift */,
 				CADA026329A7F311001783D6 /* VideoListItemView.swift */,
 				CA917F3F29B1312700299860 /* VideoPlayerView.swift */,
+				CAF37A2129B7B141003B8E06 /* MapAnnotationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				CA917F4329B1323500299860 /* VideoPlayerHelper.swift in Sources */,
 				CADA025E29A7EEBC001783D6 /* InsetMapView.swift in Sources */,
 				CAB45E6229A673E5006C804E /* Africa_SwiftUIApp.swift in Sources */,
+				CAF37A2229B7B141003B8E06 /* MapAnnotationView.swift in Sources */,
 				CAB45E9229A67C35006C804E /* VideoListView.swift in Sources */,
 				CADA026229A7F2CB001783D6 /* VideoModel.swift in Sources */,
 				CAB45E9629A67C6C006C804E /* GalleryView.swift in Sources */,
